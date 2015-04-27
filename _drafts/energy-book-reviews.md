@@ -19,11 +19,11 @@ By Lars Schernikau, ISBN: 978-90-481-9239-7
 	<figcaption>Front Cover</figcaption>
 </figure>
 
-This book is pretty much the only one I have been able to find which is dedicated to the coal market.  Although now a few years old, the content is comprehensive and still highly relevant.
+This book is pretty much the only one I have been able to find which is dedicated to the coal market.  Although now a few years old, almost all the content is still comprehensive and current.
 
 Early sections discuss the many grades of coal, their characteristics, geographical situation and process of formation - information which still remains broadly relevant.  Later sections which cover the supply and demand characteristics of the market would probably benefit from a new edition, but if you are learning about coal from scratch as I did, the information is still very interesting.
 
-Unexpectedly, the book then goes into detail of the industrial competition models which, depending on your assumptions, can be considered as governing the global coal market. The section was a very good walk through of both the different types of competition model (Cournot, Bertrand, Stackelberg etc.) and a description of the linear programming model given in the appendix (using GAMS).
+Unexpectedly, the book then goes into detail of the industrial competition models which, depending on certain assumptions, can be considered as governing the global coal market. The section was a very good walk through of both the different types of competition model (Cournot, Bertrand, Stackelberg etc.) and a description of the linear programming model given in the appendix (using GAMS).
 
 I would highly recommend this book, even if you only deal in coal incidentally as a fuel for thermal generation.
 
@@ -43,15 +43,6 @@ In the first few chapters, the book starts with the fundamentals of thermodynami
 In the context of energy trading this book has some interesting detail on performance and efficiency of combined-cycle systems, but the majority of the content is specific to plant engineering.  Such engineering knowledge is interesting background but generally not cruicial for the day-to-day.
 
 
-### Wind Energy Meteorology
-
-By Stefan Emeis, ISBN: 978-3-642-30522-1
-
-<figure>
-	<img src="{{ site.url }}/images/books/wind-energy-meteorology.jpg" class="cover"></img>
-	<figcaption>Front Cover</figcaption>
-</figure>
-
 ### Elements of Shipping
 
 By Alan Branch and Michael Robarts, ISBN: 978-0-415-36286-3
@@ -61,11 +52,26 @@ By Alan Branch and Michael Robarts, ISBN: 978-0-415-36286-3
 	<figcaption>Front Cover</figcaption>
 </figure>
 
+
 ### Dictionary of Energy
 
 By Cutler J. Cleveland and Christopher Morris, ISBN: 978-0-080-96491-1
 
+<figure>
+	<img src="{{ site.url }}/images/books/dictionary-of-energy.jpg" class="cover"></img>
+	<figcaption>Front Cover</figcaption>
+</figure>
+
+
 ### Intelligent Energy Demand Forecasting
+
+By Wei-Chang Hong, ISBN: 978-1-447-14968-2
+
+<figure>
+	<img src="{{ site.url }}/images/books/intelligent-energy-demand-forecasting.jpg" class="cover"></img>
+	<figcaption>Front Cover</figcaption>
+</figure>
+
 
 ### Renewable Energy in Europe
 
@@ -75,13 +81,9 @@ By Cutler J. Cleveland and Christopher Morris, ISBN: 978-0-080-96491-1
 
 ### Modelling and Forecasting Electricity Loads and Prices
 
-### Counterparty Credit Risk
-
 ### Power Markets and Economics
 
 ### Oil 101
-
-### Dynamic Hedging
 
 ### Safe and Sustainable Nuclear Energy
 
