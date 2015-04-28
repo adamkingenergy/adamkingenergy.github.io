@@ -26,10 +26,36 @@ Generally, the start of the book was useful for its coverage of geostrophic wind
 
 ### Numerical Weather and Climate Prediction
 
+
+<figure>
+	<img src="{{ site.url }}/images/books/numerical-weather-and-climate-prediction.jpg" class="cover"></img>
+	<figcaption>Front Cover</figcaption>
+</figure>
+
+
 ### Operational Weather Forecasting
+
+
+<figure>
+	<img src="{{ site.url }}/images/books/operational-weather-forecasting.jpg" class="cover"></img>
+	<figcaption>Front Cover</figcaption>
+</figure>
+
 
 ### Understanding Weather
 
+
+<figure>
+	<img src="{{ site.url }}/images/books/understanding-weather.jpg" class="cover"></img>
+	<figcaption>Front Cover</figcaption>
+</figure>
+
+
 ### Fundamentals of Weather and Climate
 
+
+<figure>
+	<img src="{{ site.url }}/images/books/fundamentals-of-weather-and-climate.jpg" class="cover"></img>
+	<figcaption>Front Cover</figcaption>
+</figure>
 

@@ -10,6 +10,7 @@ image:
 
 Energy trading and risk-management is a relatively niche topic, but is fortunately well-served by excellent books from several publishers.  Since the discipline spans different aspects of physics, economics, game-theory, stochastics, optimisation and operations research, each book inevitably has its own slant.
 
+
 ### Economics of the International Coal Trade
 
 By Lars Schernikau, ISBN: 978-90-481-9239-7
@@ -26,6 +27,7 @@ Early sections discuss the many grades of coal, their characteristics, geographi
 Unexpectedly, the book then goes into detail of the industrial competition models which, depending on certain assumptions, can be considered as governing the global coal market. The section was a very good walk through of both the different types of competition model (Cournot, Bertrand, Stackelberg etc.) and a description of the linear programming model given in the appendix (using GAMS).
 
 I would highly recommend this book, even if you only deal in coal incidentally as a fuel for thermal generation.
+
 
 ### Power Generation Handbook
 
@@ -75,20 +77,81 @@ By Wei-Chang Hong, ISBN: 978-1-447-14968-2
 
 ### Renewable Energy in Europe
 
+By EREC, ISBN: 978-1-844-07875-2
+
+<figure>
+	<img src="{{ site.url }}/images/books/renewable-energy-in-europe.jpg" class="cover"></img>
+	<figcaption>Front Cover</figcaption>
+</figure>
+
+
 ### Nuclear Energy in the 21st Century
+
+By Ian Hore-Lacy, ISBN: 978-0-955-07841-5
+
+<figure>
+	<img src="{{ site.url }}/images/books/nuclear-energy-in-the-21st-century.jpg" class="cover"></img>
+	<figcaption>Front Cover</figcaption>
+</figure>
+
 
 ### Maritime Economics
 
+By Martin Stopford, ISBN: 978-0-415-27557-6
+
+<figure>
+	<img src="{{ site.url }}/images/books/maritime-economics.jpg" class="cover"></img>
+	<figcaption>Front Cover</figcaption>
+</figure>
+
+
 ### Modelling and Forecasting Electricity Loads and Prices
+
+By Rafal Weron, ISBN: 978-0-470-05753-7
+
+<figure>
+	<img src="{{ site.url }}/images/books/modelling-and-forecasting-electricity-loads-and-prices.jpg" class="cover"></img>
+	<figcaption>Front Cover</figcaption>
+</figure>
+
 
 ### Power Markets and Economics
 
+By Barrie Murray, ISBN: 978-0-470-77966-8
+
+<figure>
+	<img src="{{ site.url }}/images/books/power-markets-and-economics.jpg" class="cover"></img>
+	<figcaption>Front Cover</figcaption>
+</figure>
+
+
 ### Oil 101
 
-### Safe and Sustainable Nuclear Energy
+By Morgan Downey, ISBN: 978-0-982-03920-5
 
-### Power Hungry
+<figure>
+	<img src="{{ site.url }}/images/books/oil-101.jpg" class="cover"></img>
+	<figcaption>Front Cover</figcaption>
+</figure>
+
+
+### Sustainable and Safe Nuclear Fission Energy
+
+By Günter Kessler, ISBN: 978-3-642-11989-7
+
+<figure>
+	<img src="{{ site.url }}/images/books/sustainable-and-safe-nuclear-fission-energy.jpg" class="cover"></img>
+	<figcaption>Front Cover</figcaption>
+</figure>
+
 
 ### Commodity Derivatives
+
+By Neil C. Schofield, ISBN: 978-0-470-01910-8
+
+<figure>
+	<img src="{{ site.url }}/images/books/commodity-derivatives.jpg" class="cover"></img>
+	<figcaption>Front Cover</figcaption>
+</figure>
 
 
