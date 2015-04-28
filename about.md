@@ -1,16 +1,16 @@
 ---
 layout: page
 permalink: /about/index.html
-title: Markets & Technology
-description: My interest in energy, finance and free software. 
+title: Power Trading & Analysis
+description: My interest in power, finance and free software. 
 tags: [Adam, King, power, electricity, gas, energy, trader, weather, meteorology]
 image:
   feature: power-line-pylons-sunset.jpg
 ---
 
-I trade European electricity and related-fuels for a living.  There is a lot of market-moving information to be analysed so I spend at-least half my time hacking data in [IPython](http://ipython.org) or working on distributed market models that aim to forecast prices and plant behaviours accurately.
+I'm a trader in the European electricity markets.  These markets provide many opportunities to analyse data and optimise assets so I spend at-least half my time hacking data in [IPython](http://ipython.org).  I also build larger distributed market models which aim to forecast market prices and plant behaviours accurately.
 
-On this site I hope to share a few interesting bits of data analysis, some software projects I work on in my free time and other any guides I think might be interesting and helpful.
+On this site I hope to share a few interesting things from my free time: some data analysis, software projects, book reviews and other guides I think might be interesting and helpful.
 
 
 ### Contact
