@@ -22,8 +22,6 @@ If you would like to get in touch, please use one of the below:
 
 If you wish to communicate privately, my PGP key is: [455D6A75]({{ site.url }}/assets/files/adamking-pgp.asc.txt).
 
-Details of my professional experience are available [here]({{ site.url }}/assets/files/adamking-summary-cv.pdf).
-
 
 ### Published Materials
 
