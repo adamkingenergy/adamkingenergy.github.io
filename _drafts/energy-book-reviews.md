@@ -57,6 +57,18 @@ By Ian Hore-Lacy, ISBN: 978-0-955-07841-5
 This book is filled with superb graphics and photos, giving broad coverage of key topics in nuclear energy.  While not delving into great technical depth, it does give an overview of the many plant technologies, basic Uranium fuel-cycle and history of nuclear technology.  This book will not give you detailled information about the techical operation of various plants, but I would recommend it as a quick and interesting read.
 
 
+### Sustainable and Safe Nuclear Fission Energy
+
+By Günter Kessler, ISBN: 978-3-642-11989-7
+
+<figure>
+	<img src="{{ site.url }}/images/books/sustainable-and-safe-nuclear-fission-energy.jpg" class="cover"></img>
+	<figcaption>Front Cover</figcaption>
+</figure>
+
+This is a detailed book covering the core aspects of nuclear plant operation and the idiosyncracies of the various plant types (BWR, PWR, etc.).  It is not merely a condensation of what can be easily found elsewhere.  Instead it details important elements of plant operation and safety not covered in other books and does so without feeling like an operating manual.  
+
+
 ### Elements of Shipping
 
 By Alan Branch and Michael Robarts, ISBN: 978-0-415-36286-3
@@ -133,16 +145,6 @@ By Morgan Downey, ISBN: 978-0-982-03920-5
 
 <figure>
 	<img src="{{ site.url }}/images/books/oil-101.jpg" class="cover"></img>
-	<figcaption>Front Cover</figcaption>
-</figure>
-
-
-### Sustainable and Safe Nuclear Fission Energy
-
-By Günter Kessler, ISBN: 978-3-642-11989-7
-
-<figure>
-	<img src="{{ site.url }}/images/books/sustainable-and-safe-nuclear-fission-energy.jpg" class="cover"></img>
 	<figcaption>Front Cover</figcaption>
 </figure>
 
