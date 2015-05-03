@@ -45,6 +45,18 @@ In the first few chapters, the book starts with the fundamentals of thermodynami
 In the context of energy trading this book has some interesting detail on performance and efficiency of combined-cycle systems, but the majority of the content is specific to plant engineering.  Such engineering knowledge is interesting background but generally not cruicial for the day-to-day.
 
 
+### Nuclear Energy in the 21st Century
+
+By Ian Hore-Lacy, ISBN: 978-0-955-07841-5
+
+<figure>
+	<img src="{{ site.url }}/images/books/nuclear-energy-in-the-21st-century.jpg" class="cover"></img>
+	<figcaption>Front Cover</figcaption>
+</figure>
+
+This book is filled with superb graphics and photos, giving broad coverage of key topics in nuclear energy.  While not delving into great technical depth, it does give an overview of the many plant technologies, basic Uranium fuel-cycle and history of nuclear technology.  This book will not give you detailled information about the techical operation of various plants, but I would recommend it as a quick and interesting read.
+
+
 ### Elements of Shipping
 
 By Alan Branch and Michael Robarts, ISBN: 978-0-415-36286-3
@@ -81,16 +93,6 @@ By EREC, ISBN: 978-1-844-07875-2
 
 <figure>
 	<img src="{{ site.url }}/images/books/renewable-energy-in-europe.jpg" class="cover"></img>
-	<figcaption>Front Cover</figcaption>
-</figure>
-
-
-### Nuclear Energy in the 21st Century
-
-By Ian Hore-Lacy, ISBN: 978-0-955-07841-5
-
-<figure>
-	<img src="{{ site.url }}/images/books/nuclear-energy-in-the-21st-century.jpg" class="cover"></img>
 	<figcaption>Front Cover</figcaption>
 </figure>
 
